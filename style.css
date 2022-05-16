@@ -1,0 +1,15 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.sidebar {
+  background-color: #ff7777;
+  text-align: center;
+}
+.sidebar ul li {
+  text-align: left;
+  padding: 20px;
+  margin-left: -20px;
+}
+.profil {
+  background-color: #ff7777;
+}
